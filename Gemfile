@@ -5,7 +5,7 @@ gemspec
 gem 'javascript_features', :git => 'git://github.com/fxposter/javascript-features.git', :branch => 'without_tests'
 
 # group :rails3 do
-  # gem 'i18n'
+  gem 'i18n'
   # gem 'activesupport', '~> 3.0'
 # end
 

@@ -16,8 +16,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = '1.3.6'
   s.summary = 'Test case for javascript_features gem.'
 
-  s.add_dependency('javascript_features')
-  # s.add_dependency('activesupport')
+  # s.add_dependency('javascript_features')
+  s.add_dependency('activesupport')
   s.add_dependency('harmony')
 
   s.add_development_dependency('shoulda')
